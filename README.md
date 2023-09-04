@@ -22,13 +22,13 @@ AITeQ is optimized for rapid predictions, allowing researchers and clinicians to
 ### Lightweight:
 AITeQ is designed to be lightweight and efficient, ensuring that it can easily run on a wide range of computational platforms.
 
-## Input
+## Usage
+
+### Input
 AITeQ takes in .csv file containing the output of variance stabilizing transformation (VST) from DESeq2 (https://bioconductor.org/packages/release/bioc/html/DESeq2.html).
 
-## Output
+### Output
 Once AITeQ is finished running, the Alzheimer's predictions is displayed as a dataframe.
-
-## Usage
 
 ### Step 1: 
 Open the ipynb with google colaboratory 
