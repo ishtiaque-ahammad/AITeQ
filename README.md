@@ -31,7 +31,7 @@ AITeQ takes in .csv file containing the output of variance stabilizing transform
 Once AITeQ is finished running, the Alzheimer's predictions is displayed as a dataframe.
 
 ### Step 1: 
-Open [AITeQ](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/AITeQ.ipynb)
+Open [AITeQ](https://colab.research.google.com/github/ishtiaque-ahammad/AITeQ/blob/main/AITeQ.ipynb)
 
 ### Step 2: 
 Upload your input file
