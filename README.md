@@ -1,7 +1,7 @@
-# AITeQ (Alzheimer's Identification Tool using RNA-seQ)
+# AITeQ (Alzheimer's Identification Tool using RNA-seq)
 
 ## Introduction
-Welcome to AITeQ (Alzheimer's Identification Tool using RNA-Seq), a powerful and user-friendly tool that has been developed as part of an integrative machine learning and transcriptomics study. AITeQ is designed for prediction of Alzheimer's disease from RNA-Seq data. This tool takes as input a .csv file containing the output of variance stabilizing transformation (VST) from DESeq2, and it leverages machine learning algorithms to provide accurate predictions of Alzheimer's disease status based on a distinctive 5-gene signature.
+Welcome to AITeQ (Alzheimer's Identification Tool using RNA-seq), a powerful and user-friendly tool that has been developed as part of an integrative machine learning and transcriptomics study. AITeQ is designed for prediction of Alzheimer's disease from RNA-Seq data. This tool takes as input a .csv file containing the output of variance stabilizing transformation (VST) from DESeq2, and it leverages machine learning algorithms to provide accurate predictions of Alzheimer's disease status based on a distinctive 5-gene signature.
 
 ## Motivation
 Alzheimer's disease is a devastating neurodegenerative disorder that affects millions of individuals worldwide. Accurate diagnosis of the diease is crucial for effective treatment and intervention. AITeQ aims to bridge the gap between RNA-Seq data and Alzheimer's disease diagnosis. By identifying a distinctive 5-gene signature through an integrative approach, we hope to aid researchers and clinicians in the field with accurate detection.
