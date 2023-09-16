@@ -26,12 +26,7 @@ AITeQ is optimized for rapid predictions, allowing researchers and clinicians to
 AITeQ is designed to be lightweight and efficient, ensuring that it can easily run on a wide range of computational platforms.
 
 ## Usage
-
-### Input
-AITeQ takes in .csv file containing the output of variance stabilizing transformation (VST) from DESeq2 (https://bioconductor.org/packages/release/bioc/html/DESeq2.html).
-
-### Output
-Once AITeQ is finished running, the Alzheimer's predictions is displayed as a dataframe.
+AITeQ can be run using very simple 3 steps described below:
 
 ### Step 1: 
 Open [AITeQ](https://colab.research.google.com/github/ishtiaque-ahammad/AITeQ/blob/main/AITeQ_user_version_1_0.ipynb)
@@ -42,8 +37,12 @@ Upload your input file
 ### Step 3: 
 Make predictions and view the results
 
-## Examples
-For understanding how to prepare your input file, please use the example_dataset.csv file in the AITeQ repository.
+### Input
+AITeQ takes in a .csv file containing the standard output of variance stabilizing transformation (VST) obtained from DESeq2.
+Download the example_dataset.csv to see what the input file should look like. 
+
+### Output
+Alzheimer's disease status predictions (AD, Non-AD) are displayed as a table which can be easily downloaded.
 
 ## Contact
 If you have any questions, feedback, or issues, please don't hesitate to contact us at bioinformatics.division.nib.gov.bd@gmail.com
