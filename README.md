@@ -1,4 +1,4 @@
-# AITeQ (Alzheimer's Identification Tool using RNA-seq) 
+# AITeQ (Alzheimer's Identification Tool using RNA-seq) version 1.0
 <p align="center">
 <img src="https://github.com/ishtiaque-ahammad/AITeQ/assets/99262870/db431f92-6e04-4ab7-8a2f-0c861ebb98cd" alt="AITeQ" />
 </p>
