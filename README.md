@@ -38,7 +38,8 @@ Upload your input file
 Make predictions and view the results
 
 ### Input
-AITeQ takes in a .csv file containing the standard output of variance stabilizing transformation (VST) obtained from DESeq2.
+AITeQ takes in a .csv file containing the standard output of variance stabilizing transformation (VST) obtained from [DESeq2](https://colab.research.google.com/github/ishtiaque-ahammad/AITeQ/blob/main/DESeq2.R)
+
 Download the example_dataset.csv to see what the input file should look like. 
 
 ### Output
