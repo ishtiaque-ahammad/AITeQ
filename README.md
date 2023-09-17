@@ -38,7 +38,16 @@ Upload your input file
 Make predictions and view the results
 
 ### Input
-AITeQ takes in a .csv file containing the standard output of variance stabilizing transformation (VST) obtained from [DESeq2](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/DESeq2.R). Download the example_dataset.csv to see what the input file should look like. 
+AITeQ uses the standard output of Variance Stabilizing Transformation (VST) from DESeq2.
+Use the [example dataset](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/example_dataset.csv) to see what the input file should look like.
+
+#### How to get the VST file
+
+#### Generate Read Counts/Count Matrix
+- For single-end RNA-Seq data, use the [single end](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/single_end.sh) script.
+- For paired-end RNA-Seq data, use the [paired end](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/paired_end.sh) script.
+#### Perform Variance Stabilizing Transformation (VST) with DESeq2
+- To perform VST, utilize the [DESeq2](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/DESeq2.R) script.
 
 ### Output
 Alzheimer's disease status predictions (AD, Non-AD) are displayed as a table which can be easily downloaded.
