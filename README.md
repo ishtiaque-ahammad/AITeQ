@@ -43,10 +43,8 @@ Use the [example dataset](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/e
 
 #### How to get the VST file
 
-#### Generate Read Counts/Count Matrix
 - For single-end RNA-Seq data, use the [single end](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/single_end.sh) script.
 - For paired-end RNA-Seq data, use the [paired end](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/paired_end.sh) script.
-#### Perform Variance Stabilizing Transformation (VST) with DESeq2
 - To perform VST, utilize the [DESeq2](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/DESeq2.R) script.
 
 ### Output
