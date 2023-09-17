@@ -43,8 +43,8 @@ Use the [example dataset](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/e
 
 #### How to get the VST file
 
-- For single-end RNA-Seq data, use the [single end](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/single_end.sh) script.
-- For paired-end RNA-Seq data, use the [paired end](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/paired_end.sh) script.
+- For single-end RNA-Seq data, activate [conda environment](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/single_end.sh) and use the [single end](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/rna-seq.yml) script.
+- For paired-end RNA-Seq data, activate [conda environment](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/single_end.sh) and use the [paired end](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/rna-seq.yml) script.
 - To perform VST, utilize the [DESeq2](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/DESeq2.R) script.
 
 ### Output
