@@ -38,9 +38,7 @@ Upload your input file
 Make predictions and view the results
 
 ### Input
-AITeQ takes in a .csv file containing the standard output of variance stabilizing transformation (VST) obtained from [DESeq2](https://colab.research.google.com/github/ishtiaque-ahammad/AITeQ/blob/main/DESeq2.R)
-
-Download the example_dataset.csv to see what the input file should look like. 
+AITeQ takes in a .csv file containing the standard output of variance stabilizing transformation (VST) obtained from [DESeq2](https://github.com/ishtiaque-ahammad/AITeQ/blob/main/DESeq2.R). Download the example_dataset.csv to see what the input file should look like. 
 
 ### Output
 Alzheimer's disease status predictions (AD, Non-AD) are displayed as a table which can be easily downloaded.
