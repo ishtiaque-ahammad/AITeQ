@@ -45,5 +45,5 @@ echo "Started merging FeatureCounts output files of all samples"
 sleep 3s
 ls -1  FeatureCounts/*_counts.txt | parallel 'cat {} | sed '1d' | cut -f7 {} > FeatureCounts/{/.}_clean.txt'
 ls -1  FeatureCounts/*_counts.txt | head -1 | xargs cut -f1 > FeatureCounts/genes.txt
-paste FeatureCounts/genes.txt FeatureCounts/*_counts_clean.txt > FeatureCounts/merged_counts.txt
+paste FeatureCounts/genes.txt FeatureCounts/*_counts_clean.txt > FeatureCounts/merged_counts.csv
 echo "Finished merging FeatureCounts output files of all samples"
