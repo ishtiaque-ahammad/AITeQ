@@ -55,3 +55,6 @@ If you have any questions, feedback, or issues, please don't hesitate to contact
 
 ## License
 This project is licensed under the GPL-3.0 license.
+
+## Cite
+Ishtiaque Ahammad, Anika Bushra Lamisa, Arittra Bhattacharjee, Tabassum Binte Jamal, Md Shamsul Arefin, Zeshan Mahmud Chowdhury, Mohammad Uzzal Hossain, Keshob Chandra Das, Chaman Ara Keya, Md Salimullah, AITeQ: a machine learning framework for Alzheimer’s prediction using a distinctive five-gene signature, Briefings in Bioinformatics, Volume 25, Issue 4, July 2024, bbae291, https://doi.org/10.1093/bib/bbae291
